@@ -17,9 +17,9 @@ Description of functional requirements:
 - The function of adding / deleting an employee's bonuses
 - The function of adding / deleting the deductions of an employee
 - The function of applying / deleting the penalties of an employee
-15. The function of displaying / saving / modifying / deleting data on:
-16. The function of displaying former employees
-17. The function of adding the payroll
-18. The function of generating the payroll for a specific employee
-19. The function of viewing the content of a payroll statement
-20. The function of generating statistics
+- The function of displaying / saving / modifying / deleting data on:
+- The function of displaying former employees
+- The function of adding the payroll
+- The function of generating the payroll for a specific employee
+- The function of viewing the content of a payroll statement
+- The function of generating statistics
